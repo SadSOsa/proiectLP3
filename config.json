@@ -1,0 +1,6 @@
+{
+    "sablon": "Imagine_{index}_{data}.{extensie}",
+    "start_index": 1,
+    "padding": 3,
+    "extensii_filtru": null
+}

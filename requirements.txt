@@ -1,0 +1,2 @@
+# Nu sunt necesare biblioteci externe.
+# Toate modulele folosite de noi (os, json, argparse, datetime) sunt direct din biblioteca standard Python.
