@@ -61,7 +61,7 @@ def anuleaza(director):
     os.remove(cale)
     print(f"\n{len(mapare)} fisiere restaurate!")
 
-# --- Argumente ---
+#argumente
 parser = argparse.ArgumentParser(description="Redenumire automata a fisierelor.")
 parser.add_argument("-d", "--director", required=True, help="Directorul cu fisierele")
 grup = parser.add_mutually_exclusive_group(required=True)
